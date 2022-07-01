@@ -1,2 +1,2 @@
 # DAC PRS ITS 2021
-repo for competitions and other data related projects
+Data Analyst Competition at Pekan Raya Statistika ITS 2021
